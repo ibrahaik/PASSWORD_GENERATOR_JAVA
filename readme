@@ -1,0 +1,28 @@
+Este proyecto es una aplicación de escritorio desarrollada en Java que permite generar contraseñas seguras de manera personalizada. Utiliza una interfaz gráfica amigable creada con JavaFX, donde el usuario puede seleccionar la longitud de la contraseña y activar o desactivar el uso de mayúsculas, números y caracteres especiales. También incluye un indicador visual de la fortaleza de la contraseña generada y un botón para copiarla al portapapeles.
+
+Características
+Interfaz intuitiva desarrollada con JavaFX.
+
+Generación de contraseñas seguras usando SecureRandom.
+
+Opciones para incluir:
+
+Letras mayúsculas
+
+Números
+
+Caracteres especiales
+
+Control deslizante para ajustar la longitud de la contraseña (entre 6 y 30 caracteres).
+
+Indicador de fortaleza de la contraseña (Muy Débil a Muy Fuerte).
+
+Funcionalidad para copiar la contraseña al portapapeles con un solo clic.
+
+Tecnologías utilizadas
+Java 11+
+
+JavaFX para la interfaz gráfica
+
+SecureRandom para la generación segura de contraseñas
+
